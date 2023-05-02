@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #0d22e2;
+    padding: 20px;
+    background-image: url('https://i.pinimg.com/736x/23/61/5c/23615ce774a4264fc334b1a5cd422de4.jpg'); /* Adicione a URL da imagem desejada */
+    background-size: cover;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  

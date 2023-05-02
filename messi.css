@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-decoration: solid;
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0,75mm;
+    background-color: #13131359;
+    color: #0d22e2;
+    padding: 20px;
+    background-image: url('https://feijoadasimulator.top/br/sources/6097t.png');
+    background-size: 25%;
+    background-repeat: no-repeat; /*impedir a repetição*/
+    display:block
+    width:50px; /*altura da imagem*/
+    height:25px /*largura da imagem*/
+    background-repeat: no-repeat; /*impedir a repetição*/
+    padding: 10px 20px 10px 20px;
+    background-position: right;
+    margin-bottom:20px;
+    border-left: 8px solid color:#000;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  h2 {
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  
